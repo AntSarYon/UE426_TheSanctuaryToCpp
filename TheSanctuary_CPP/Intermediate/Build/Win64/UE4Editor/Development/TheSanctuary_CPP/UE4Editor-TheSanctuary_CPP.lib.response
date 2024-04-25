@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TheSanctuary_CPP.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Epic Games\UnrealEngine-4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UNREALProjects\UE426_TheSanctuaryToCpp\TheSanctuary_CPP\Intermediate\Build\Win64\UE4Editor\Development\TheSanctuary_CPP\TheSanctuary_CPP.cpp.obj"
+"D:\UNREALProjects\UE426_TheSanctuaryToCpp\TheSanctuary_CPP\Intermediate\Build\Win64\UE4Editor\Development\TheSanctuary_CPP\TheSanctuary_CPPCharacter.cpp.obj"
+"D:\UNREALProjects\UE426_TheSanctuaryToCpp\TheSanctuary_CPP\Intermediate\Build\Win64\UE4Editor\Development\TheSanctuary_CPP\TheSanctuary_CPPGameMode.cpp.obj"
+"D:\UNREALProjects\UE426_TheSanctuaryToCpp\TheSanctuary_CPP\Intermediate\Build\Win64\UE4Editor\Development\TheSanctuary_CPP\TheSanctuary_CPPHUD.cpp.obj"
+"D:\UNREALProjects\UE426_TheSanctuaryToCpp\TheSanctuary_CPP\Intermediate\Build\Win64\UE4Editor\Development\TheSanctuary_CPP\TheSanctuary_CPPProjectile.cpp.obj"
+"D:\UNREALProjects\UE426_TheSanctuaryToCpp\TheSanctuary_CPP\Intermediate\Build\Win64\UE4Editor\Development\TheSanctuary_CPP\TheSanctuary_CPP.init.gen.cpp.obj"
+"D:\UNREALProjects\UE426_TheSanctuaryToCpp\TheSanctuary_CPP\Intermediate\Build\Win64\UE4Editor\Development\TheSanctuary_CPP\TheSanctuary_CPPCharacter.gen.cpp.obj"
+"D:\UNREALProjects\UE426_TheSanctuaryToCpp\TheSanctuary_CPP\Intermediate\Build\Win64\UE4Editor\Development\TheSanctuary_CPP\TheSanctuary_CPPGameMode.gen.cpp.obj"
+"D:\UNREALProjects\UE426_TheSanctuaryToCpp\TheSanctuary_CPP\Intermediate\Build\Win64\UE4Editor\Development\TheSanctuary_CPP\TheSanctuary_CPPHUD.gen.cpp.obj"
+"D:\UNREALProjects\UE426_TheSanctuaryToCpp\TheSanctuary_CPP\Intermediate\Build\Win64\UE4Editor\Development\TheSanctuary_CPP\TheSanctuary_CPPProjectile.gen.cpp.obj"
+"D:\Epic Games\UnrealEngine-4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\UNREALProjects\UE426_TheSanctuaryToCpp\TheSanctuary_CPP\Intermediate\Build\Win64\UE4Editor\Development\TheSanctuary_CPP\UE4Editor-TheSanctuary_CPP.lib"
+/INCLUDE:IMPLEMENT_MODULE_TheSanctuary_CPP

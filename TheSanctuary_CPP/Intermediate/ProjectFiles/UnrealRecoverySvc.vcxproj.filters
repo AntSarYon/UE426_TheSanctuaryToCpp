@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\..\..\..\Epic Games\UnrealEngine-4.26\Engine\Source\Programs\UnrealRecoverySvc\UnrealRecoverySvc.Target.cs" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{A08B51E0-8748-40A6-8999-2009A845A5A0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\Epic Games\UnrealEngine-4.26\Engine\Programs\UnrealRecoverySvc\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Epic Games\UnrealEngine-4.26\Engine\Source\Programs\UnrealRecoverySvc\UnrealRecoverySvc.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{0CC66509-C576-48C6-82B2-67FE989ED711}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\Epic Games\UnrealEngine-4.26\Engine\Source\Programs\UnrealRecoverySvc\Private\UnrealRecoverySvc.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UNREALProjects\\UE426_TheSanctuaryToCpp\\TheSanctuary_CPP\\Source\\TheSanctuary_CPP\\TheSanctuary_CPP.Build.cs",
+		"D:\\UNREALProjects\\UE426_TheSanctuaryToCpp\\TheSanctuary_CPP\\Source\\TheSanctuary_CPP.Target.cs",
+		"D:\\UNREALProjects\\UE426_TheSanctuaryToCpp\\TheSanctuary_CPP\\Source\\TheSanctuary_CPPEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

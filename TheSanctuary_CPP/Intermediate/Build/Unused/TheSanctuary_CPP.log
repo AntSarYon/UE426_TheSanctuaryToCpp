@@ -1,0 +1,50 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\UNREALProjects\UE426_TheSanctuaryToCpp).
+  Creating makefile for TheSanctuary_CPPEditor (no existing makefile)
+  Creating makefile for UnrealHeaderTool (no existing makefile)
+  Parsing headers for TheSanctuary_CPPEditor
+    Running UnrealHeaderTool "D:\UNREALProjects\UE426_TheSanctuaryToCpp\TheSanctuary_CPP\TheSanctuary_CPP.uproject" "D:\UNREALProjects\UE426_TheSanctuaryToCpp\TheSanctuary_CPP\Intermediate\Build\Win64\TheSanctuary_CPPEditor\Development\TheSanctuary_CPPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="D:\Epic Games\UnrealEngine-4.26\Engine\Programs\UnrealBuildTool\Log_UHT.txt"
+  Reflection code generated for TheSanctuary_CPPEditor in 4.1954683 seconds
+  Creating makefile for ShaderCompileWorker (no existing makefile)
+  Building TheSanctuary_CPPEditor and ShaderCompileWorker...
+  Using Visual Studio 2019 14.39.33523 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Distributing 16 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  License not activated:
+      License is not activated. Please activate the license in the coordinator.
+      This build will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  
+  Build ID: {1F6277A0-9159-48F0-AFDA-D22CFE3A7C94}
+  
+  --------------------Project: Default-------------------------------------------
+  ** For TheSanctuary_CPPEditor-Win64-Development **
+  Module.VisualStudioCodeSourceCodeAccess.cpp (0:04.64 at +0:00)
+  UE4Editor-VisualStudioCodeSourceCodeAccess.lib (0:00.20 at +0:04)
+     Creating library D:\Epic Games\UnrealEngine-4.26\Engine\Plugins\Developer\VisualStudioCodeSourceCodeAccess\Intermediate\Build\Win64\UE4Editor\Development\VisualStudioCodeSourceCodeAccess\UE4Editor-VisualStudioCodeSourceCodeAccess.lib and object D:\Epic Games\UnrealEngine-4.26\Engine\Plugins\Developer\VisualStudioCodeSourceCodeAccess\Intermediate\Build\Win64\UE4Editor\Development\VisualStudioCodeSourceCodeAccess\UE4Editor-VisualStudioCodeSourceCodeAccess.exp
+  UE4Editor-VisualStudioCodeSourceCodeAccess.dll (0:00.75 at +0:04)
+     Creating library D:\Epic Games\UnrealEngine-4.26\Engine\Plugins\Developer\VisualStudioCodeSourceCodeAccess\Intermediate\Build\Win64\UE4Editor\Development\VisualStudioCodeSourceCodeAccess\UE4Editor-VisualStudioCodeSourceCodeAccess.suppressed.lib and object D:\Epic Games\UnrealEngine-4.26\Engine\Plugins\Developer\VisualStudioCodeSourceCodeAccess\Intermediate\Build\Win64\UE4Editor\Development\VisualStudioCodeSourceCodeAccess\UE4Editor-VisualStudioCodeSourceCodeAccess.suppressed.exp
+  TheSanctuary_CPP.init.gen.cpp (0:08.50 at +0:00)
+  TheSanctuary_CPP.cpp (0:08.64 at +0:00)
+  TheSanctuary_CPPProjectile.cpp (0:08.57 at +0:00)
+  TheSanctuary_CPPHUD.cpp (0:08.60 at +0:00)
+  TheSanctuary_CPPGameMode.cpp (0:08.67 at +0:00)
+  TheSanctuary_CPPHUD.gen.cpp (0:08.57 at +0:00)
+  TheSanctuary_CPPProjectile.gen.cpp (0:08.54 at +0:00)
+  TheSanctuary_CPPGameMode.gen.cpp (0:08.65 at +0:00)
+  TheSanctuary_CPPCharacter.gen.cpp (0:08.68 at +0:00)
+  TheSanctuary_CPPCharacter.cpp (0:09.84 at +0:00)
+  UE4Editor-TheSanctuary_CPP.lib (0:00.14 at +0:09)
+     Creating library D:\UNREALProjects\UE426_TheSanctuaryToCpp\TheSanctuary_CPP\Intermediate\Build\Win64\UE4Editor\Development\TheSanctuary_CPP\UE4Editor-TheSanctuary_CPP.lib and object D:\UNREALProjects\UE426_TheSanctuaryToCpp\TheSanctuary_CPP\Intermediate\Build\Win64\UE4Editor\Development\TheSanctuary_CPP\UE4Editor-TheSanctuary_CPP.exp
+  UE4Editor-TheSanctuary_CPP.dll (0:00.93 at +0:09)
+     Creating library D:\UNREALProjects\UE426_TheSanctuaryToCpp\TheSanctuary_CPP\Intermediate\Build\Win64\UE4Editor\Development\TheSanctuary_CPP\UE4Editor-TheSanctuary_CPP.suppressed.lib and object D:\UNREALProjects\UE426_TheSanctuaryToCpp\TheSanctuary_CPP\Intermediate\Build\Win64\UE4Editor\Development\TheSanctuary_CPP\UE4Editor-TheSanctuary_CPP.suppressed.exp
+  TheSanctuary_CPPEditor.target (0:00.21 at +0:10)
+  ---------------------- Done ----------------------
+  
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+  
+  1 build system warning(s):
+     - License not activated
+  
+  Total time in XGE executor: 11.28 seconds
+  Total execution time: 21.22 seconds
