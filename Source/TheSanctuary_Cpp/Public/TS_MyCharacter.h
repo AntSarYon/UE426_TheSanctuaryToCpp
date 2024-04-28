@@ -6,12 +6,20 @@
 #include "GameFramework/Character.h"
 #include "TS_MyCharacter.generated.h"
 
+class UCameraComponent;
+
 UCLASS()
 class THESANCTUARY_CPP_API ATS_MyCharacter : public ACharacter
 {
 	GENERATED_BODY()
 
 protected:
+
+	//Componente Cámara
+	UPROPERTY(VisibleAnywhere,BlueprintReadOnly, Category = "Components")
+	UCameraComponent* FPSCameraComponent;
+
+	//Flag para saber si la Vista vertical esta invertida
 	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "Aiming")
 	bool bIsLookInversion;
 

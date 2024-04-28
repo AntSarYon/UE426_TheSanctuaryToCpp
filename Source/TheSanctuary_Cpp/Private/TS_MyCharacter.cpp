@@ -2,6 +2,7 @@
 
 
 #include "TS_MyCharacter.h"
+#include "Camera\CameraComponent.h"
 
 // Sets default values
 ATS_MyCharacter::ATS_MyCharacter()
@@ -9,6 +10,12 @@ ATS_MyCharacter::ATS_MyCharacter()
  	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
+	//Creamos el Componente Camara que habiamos declarado
+	FPSCameraComponent = CreateDefaultSubobject<UCameraComponent>(TEXT("CameraComponent"));
+	//Ponemos al componente cámara como hijo del RootComponent
+	FPSCameraComponent->SetupAttachment(RootComponent);
+	//Activamos un Flag para que la Cámara siga la Rotación que recibe el Pawn
+	FPSCameraComponent->bUsePawnControlRotation = true;
 }
 
 //-----------------------------------------------------------------------
