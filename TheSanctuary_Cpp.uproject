@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1FBD5C88-470D-B27F-8C25-D9892A5784B0}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TheSanctuary_Cpp",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}

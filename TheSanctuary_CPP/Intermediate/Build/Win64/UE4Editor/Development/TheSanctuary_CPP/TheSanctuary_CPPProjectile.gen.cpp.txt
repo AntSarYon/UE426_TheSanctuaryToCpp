@@ -1,5 +1,0 @@
-D:\UNREALProjects\UE426_TheSanctuaryToCpp\TheSanctuary_CPP\Intermediate\Build\Win64\UE4Editor\Development\TheSanctuary_CPP\Definitions.TheSanctuary_CPP.h
-D:\Epic Games\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Epic Games\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\UNREALProjects\UE426_TheSanctuaryToCpp\TheSanctuary_CPP\Source\TheSanctuary_CPP/TheSanctuary_CPPProjectile.h
-D:\UNREALProjects\UE426_TheSanctuaryToCpp\TheSanctuary_CPP\Intermediate\Build\Win64\UE4Editor\Inc\TheSanctuary_CPP\TheSanctuary_CPPProjectile.generated.h

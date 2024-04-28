@@ -1,2 +1,0 @@
-D:\UNREALProjects\UE426_TheSanctuaryToCpp\TheSanctuary_CPP\Intermediate\Build\Win64\UE4Editor\Development\TheSanctuary_CPP\Definitions.TheSanctuary_CPP.h
-D:\UNREALProjects\UE426_TheSanctuaryToCpp\TheSanctuary_CPP\Source\TheSanctuary_CPP\TheSanctuary_CPP.h
